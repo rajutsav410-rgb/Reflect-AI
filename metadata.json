@@ -1,0 +1,6 @@
+{
+  "name": "ReflectAI",
+  "description": "User-authenticated personal reflection and journal app with multi-turn Gemini AI and user-isolated Firestore persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
